@@ -1,2 +1,2 @@
 # uke-36
-Ukeoppgave uke36 - minførste nettside
+Ukeoppgave uke36 - min første nettside
